@@ -1,0 +1,2 @@
+# point
+bai tap point
